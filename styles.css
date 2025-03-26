@@ -4,7 +4,7 @@ body {
     background-color: #f4f4f4;
     padding: 20px;
     margin: 0;
-    background-image: src(f1.jpg);
+    background-image: url('f1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
